@@ -1,2 +1,2 @@
 # jIntl-resources-repo
-jIntl resources repository saved intl sources
+jIntl resources repository saved intl sources.
